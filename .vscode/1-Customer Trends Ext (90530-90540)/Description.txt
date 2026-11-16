@@ -1,0 +1,3 @@
+//This is for KNAPP and Manual Sales Order Consolidation customization+++
+//I have used this extension becuase of KNAPP customization++
+//Please Check Customer Trends and KNAPP extension both in case of any error.

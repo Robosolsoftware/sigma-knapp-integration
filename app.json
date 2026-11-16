@@ -1,0 +1,45 @@
+{
+  "id": "5b6c6c41-8944-489c-8020-627e5ff808d3",
+  "name": "Knapp Integration",
+  "publisher": "Robosol",
+  "version": "24.0.0.86",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "89b2d3ff-cff9-4506-9a14-597a5b6d370f",
+      "name": "Interim WMS BC Customisation",
+      "publisher": "Robosol",
+      "version": "24.1.0.11"
+    },
+    {
+      "id": "9d21f859-860e-4a4d-ab73-d2bf6815a030",
+      "name": "Customer_Trends",
+      "publisher": "Robosol",
+      "version": "24.0.0.20"
+    }
+  ],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 90500,
+      "to": 90700
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

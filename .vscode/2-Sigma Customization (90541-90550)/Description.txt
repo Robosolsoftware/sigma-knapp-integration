@@ -1,0 +1,2 @@
+//Create multiple inventory pick based on warehouse class code
+// This is only for Sigma Process. (one location in sales Order)
